@@ -1,11 +1,16 @@
 _repo: Memoirs-of-Bertha-von-Suttner-Vol-1-of-2-the-records-of-an-eventful-life_66279
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66279-h/images/cover.jpg
 creator:
   author:
     agent_name: Suttner, Bertha  Von
     gutenberg_agent_id: '53726'
     url: http://www.gutenberg.org/2009/agents/53726
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66279#Memoirs-of-Bertha-von-Suttner-Vol-1-of-2-the-records-of-an-eventful-life
 gutenberg_issued: '2021-09-12'
 identifiers:
   gutenberg: '66279'
